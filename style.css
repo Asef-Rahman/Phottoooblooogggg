@@ -1,0 +1,13 @@
+body{
+    
+    background-color:greenyellow;
+    text-align: center;
+    
+}
+
+.image{
+    
+    width: 150px;
+    height:350px;
+    margin: 100px
+}
